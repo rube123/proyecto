@@ -22,3 +22,7 @@ Añadir funcionalidad nueva intento 1
 
 Crud modificacion
 
+##7MO COMMIT
+
+full page
+
