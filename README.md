@@ -1,8 +1,8 @@
-First commit:
+##First commit:
 creacion de carpetas principales
-Segundo commit:
+##Segundo commit:
 modificacion de recursos
-Tercer Commit:
+##Tercer Commit:
 Modificar primal
-4to commit:
+##4to commit:
 Modificacion de carpeta src
