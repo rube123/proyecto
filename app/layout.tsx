@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Quiosco Next.js con App Router y Prisma",
-  description: "Quiosco Next.js con App Router y Prisma",
+  title: "Quiosco De Ruben",
+  description: "App Quioscp",
 };
 
 export default function RootLayout({
